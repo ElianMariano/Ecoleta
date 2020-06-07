@@ -1,6 +1,14 @@
 # NextLevelWeek
 Aplicação desenvolvida na NextLevelWeek com o tema Ecoleta. O propósito do deste projeto é conectar um ponto de reciclagem com uma pessoa que queira descartar algum tipo de lixo, seja pilhas, baterias, entre outros insumos recicláveis.
 
+### Imagens do projeto ###
+
+Tela inicial                                                  | Tela de pontos de coleta             |  Detalhes do ponto de coleta
+:------------------------------------------------------------:|:-------------------------:|:-------------------------:
+<img alt="Tela inicial" src="Screenshots/home.png" width="200px" />      |  <img alt="Tela de pontos de coleta" src="Screenshots/pontos_de_coleta.png" width="200px" /> | <img alt="Detalhes do ponto de coleta" src="Screenshots/detalhes.png" width="200px" />
+
+<img alt="Be The Hero Web" src="Screenshots/web_home.png" width="80%" />
+
 ### 1º Dia
 No primeiro dia foram introduzidos os conceitos e ferramentas por trás do desenvolvimento utilizando o Typescript, um conjunto de funcionalidades adicionais ao Javascript que adiciona até a possibilidade de tipagem, facilitando o desenvolvimento com o uso em conjunto com o IntelliSense. As dependências utilizadas no início do projeto são: ts-node, ts-node-dev, typescript e express.
 Por fim, um projeto ReactJS foi criado utilizando o Typescript, e foi realizado uma aplicação "Hello World" simples com o ReactJS.
