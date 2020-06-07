@@ -13,3 +13,6 @@ No terceiro dia,o backend foi criado e foram introduzidas as ideias de imutabili
 
 ### 4º Dia
 No quarto dia, o app mobile foi criado utilizando os componentes do React Native e do Expo para executar a aplicação em um dispositivo móvel. Para realizar a navegação entre telas no app foi utilizada a dependência *react-navigation*, e para mostrar um mapa em conjunto com um marcador foi utilizada a dependência *react-map-view*. Para mostrar imagens do tipo *SVG* de forma nativa, foi utilizada a dependência *react-native-svg*. E a comunicação com o cliente de E-Mail, a foi utilizada a dependência *Mail-Composer*. Para obter os estilos de fonte do Google Fonts, foi implementada os pacotes de fontes da dependência *expo-google-fonts*. Por fim, a comunicação com o Backend da aplicação foi realizada através da dependência *Axios*.
+
+### 5º Dia
+No quinto dia, foi configurado o upload de imagens no backend através da dependência *Multer*, e foi configurado o upload de imagens no frontend com a dependência *react-dropzone*. Por fim, a validação do projeto foi feita com a dependência *Celebrate* que também utiliza a dependência *Joi* em seu núcleo.
